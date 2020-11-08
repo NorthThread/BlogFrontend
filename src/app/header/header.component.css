@@ -14,3 +14,15 @@
   color: aliceblue;
   padding-top: 10px;
 }
+
+.new-post {
+  float: right;
+  color: aliceblue;
+  padding-top: 10px;
+}
+
+.logout :hover,
+.new-post :hover {
+  color: aliceblue;
+  text-decoration: none;
+}
